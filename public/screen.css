@@ -2,7 +2,16 @@ html {
   text-size-adjust: 100%;
 }
 
+h1 {
+color: white;
+background-color: blue;
+}
+
+p {
+}
+
 body {
   margin: 0;
   font: 16px / 1 sans-serif;
+  background-color: red;
 }
